@@ -1,0 +1,13 @@
+E:\C#Winform\ModernFlatUI-FA\ModernFlatUI-FA\bin\Debug\ModernFlatUI-FA.exe.config
+E:\C#Winform\ModernFlatUI-FA\ModernFlatUI-FA\bin\Debug\ModernFlatUI-FA.exe
+E:\C#Winform\ModernFlatUI-FA\ModernFlatUI-FA\bin\Debug\ModernFlatUI-FA.pdb
+E:\C#Winform\ModernFlatUI-FA\ModernFlatUI-FA\bin\Debug\FontAwesome.Sharp.dll
+E:\C#Winform\ModernFlatUI-FA\ModernFlatUI-FA\obj\Debug\ModernFlatUI-FA.csproj.AssemblyReference.cache
+E:\C#Winform\ModernFlatUI-FA\ModernFlatUI-FA\obj\Debug\ModernFlatUI_FA.FormMainMenu.resources
+E:\C#Winform\ModernFlatUI-FA\ModernFlatUI-FA\obj\Debug\ModernFlatUI_FA.Properties.Resources.resources
+E:\C#Winform\ModernFlatUI-FA\ModernFlatUI-FA\obj\Debug\ModernFlatUI-FA.csproj.GenerateResource.cache
+E:\C#Winform\ModernFlatUI-FA\ModernFlatUI-FA\obj\Debug\ModernFlatUI-FA.csproj.CoreCompileInputs.cache
+E:\C#Winform\ModernFlatUI-FA\ModernFlatUI-FA\obj\Debug\ModernFlatUI-FA.csproj.CopyComplete
+E:\C#Winform\ModernFlatUI-FA\ModernFlatUI-FA\obj\Debug\ModernFlatUI-FA.exe
+E:\C#Winform\ModernFlatUI-FA\ModernFlatUI-FA\obj\Debug\ModernFlatUI-FA.pdb
+E:\C#Winform\ModernFlatUI-FA\ModernFlatUI-FA\obj\Debug\ModernFlatUI_FA.Forms.FormCustomers.resources
